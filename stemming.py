@@ -7,3 +7,8 @@ words = ["run","running","ran","quick","quickly","fair","fairly","early"]
 
 for word in words:
     print(word + "------->" + s_stem.stem(word))
+
+
+words = ["generate","generation","generous"]
+for word in words:
+    print(word + "------->" + s_stem.stem(word))

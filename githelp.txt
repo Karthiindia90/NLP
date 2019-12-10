@@ -1,0 +1,22 @@
+
+1. git init --> To Initialize git for the folder
+
+2. git add filename -->To Add files
+
+or
+
+git add .                                                               # will add all the files
+
+3. git commit -m "commit message will come here"
+
+4. git status                                                           # to know the current status
+
+5. git remote add origin https://github.com/Karthiindia90/NLP.git       # to add the remote github r5o
+
+6. git push Origin master                                               # to push the files to github
+
+7.git checkout master                                                   # if multiple branch we have to select the branch
+
+8. git merge "master"                                                   # merge the brance 
+
+9. git pull origin master --allow-unrelated-histories                   # if unable to merge remote repo
