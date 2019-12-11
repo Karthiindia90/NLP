@@ -17,6 +17,8 @@ git add .                                                               # will a
 
 7.git checkout master                                                   # if multiple branch we have to select the branch
 
-8. git merge "master"                                                   # merge the brance 
+8. git merge "master"                                                   # merge the brance
 
 9. git pull origin master --allow-unrelated-histories                   # if unable to merge remote repo
+
+10. git rm filename                                                     # delete file and use commit command
