@@ -16,4 +16,4 @@ def show_lemmas(text):
 
 doc2 = nlp(u"I saw you yesterday!")
 
-show_lemmas(doc2)  # using that function 
+show_lemmas(doc2)  # using that function
